@@ -1,4 +1,4 @@
-# online_cake_shop
+# online_cake_shop 2.0
 
 A new Flutter project. in this app any api call is not implemented all functionality working locally. purpose of this project is to learn how to add logic to cake shop app and learn designing of screens. also understand how to implement global widgets in app level or screen level.
 
